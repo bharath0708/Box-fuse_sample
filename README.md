@@ -21,4 +21,3 @@ Boxfuse Sample Hello World Java application packaged as a war file.
 yes its Done!
 
 Open your browser at http://localhost:8080 or simple type `boxfuse open hello:1.0` to see your brand new instance in action!
-thank you.
